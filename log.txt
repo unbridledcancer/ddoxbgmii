@@ -1,0 +1,24 @@
+UserID: 6947424651 | Time: 2024-08-02 18:33:28.167112 | Command: /bgmi | Target: 52.140.1.159 | Port: 15117 | Time: 180
+Username: UserID: 6947424651
+Target: 52.140.1.159
+Port: 15117
+Time: 180
+
+UserID: 6947424651 | Time: 2024-08-02 18:33:51.368680 | Command: /bgmi | Target: 52.140.1.159 | Port: 15117 | Time: 180
+Username: UserID: 6947424651
+Target: 52.140.1.159
+Port: 15117
+Time: 180
+
+UserID: 6947424651 | Time: 2024-08-02 18:34:25.344928 | Command: /bgmi | Target: 52.140.1.159 | Port: 15117 | Time: 180
+Username: UserID: 6947424651
+Target: 52.140.1.159
+Port: 15117
+Time: 180
+
+UserID: 6947424651 | Time: 2024-08-02 18:34:45.707292 | Command: /bgmi | Target: 52.140.1.159 | Port: 15117 | Time: 180
+Username: UserID: 6947424651
+Target: 52.140.1.159
+Port: 15117
+Time: 180
+
